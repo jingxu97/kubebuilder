@@ -1,0 +1,3 @@
+version: "1"
+domain: storage.k8s.io
+repo: github.com/kubernetes-csi/kubebuilder
